@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 data/cast.csv
 data/high_diamond_ranked_10min.csv
+assets/
